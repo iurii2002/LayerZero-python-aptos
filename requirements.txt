@@ -1,2 +1,2 @@
 pytest
-aptos-sdk
+aptos-sdk==0.5.1
